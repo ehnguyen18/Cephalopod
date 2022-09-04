@@ -110,7 +110,7 @@ double MiniMaxPlayer::minMove(Board board) {
 					return -1; 
 			}
 
-			double utility = maxMove(board);
+			double utility = maxMove(tempBoard);
 
 			if (utility < minUtility) {
 				minUtility = utility;

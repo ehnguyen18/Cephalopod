@@ -7,4 +7,4 @@ The game has 5 player options:
         3. Comp AI: Run 1 simulation through the board and pick the move with highest pip count
         4. MiniMax AI 
         5. MonteCarlo AI
-There is a known bug for Minimax A.I which frequently cause a infinite loop before the game end.
+
